@@ -139,3 +139,9 @@ dmypy.json
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
+
+#Data
+/data/original/*
+!data/original/.gitkeep 
+/data/romanized/*
+!data/romanized/.gitkeep 
