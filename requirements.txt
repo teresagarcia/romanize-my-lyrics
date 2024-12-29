@@ -1,0 +1,2 @@
+pytest==8.3.4
+mykoreanromanizer==1.0.1
